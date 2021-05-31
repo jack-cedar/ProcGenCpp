@@ -13,9 +13,9 @@ char randVowel(){
     return (vowels[(rand()% 6)]);
 }
 char randConsonants(){
-    char consonants[]{'l','o','n','s','g','h','y'};
+    char consonants[]{'b','c','f','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x','y','z'};
     
-    return (consonants[(rand()% 7)]);
+    return (consonants[(rand()% 22)]);
 }
 
 char getChar(){
