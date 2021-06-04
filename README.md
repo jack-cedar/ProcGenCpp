@@ -4,4 +4,4 @@
 
 the executable can be found in the bin.
 
-if you wish to edit and compile the source code the tasks.json file for VSCode is set up to use the mingw-w64 compiler
+if you wish to edit and compile the source code the tasks.json build task for VSCode is set up to use the mingw-w64 compiler
